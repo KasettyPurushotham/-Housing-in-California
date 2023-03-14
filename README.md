@@ -28,14 +28,7 @@ median_house_value
 
 ocean_proximity
 
-Acknowledgements
-This data was initially featured in the following paper:
-Pace, R. Kelley, and Ronald Barry. "Sparse spatial autoregressions." Statistics & Probability Letters 33.3 (1997): 291-297.
 
-and I encountered it in 'Hands-On Machine learning with Scikit-Learn and TensorFlow' by Aurélien Géron.
-Aurélien Géron wrote:
-This dataset is a modified version of the California Housing dataset available from:
-Luís Torgo's page (University of Porto)
 
-Inspiration
-See my kernel on machine learning basics in R using this dataset, or venture over to the following link for a python based introductory tutorial: https://github.com/ageron/handson-ml/tree/master/datasets/housing
+
+
